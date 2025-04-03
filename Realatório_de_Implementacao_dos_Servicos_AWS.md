@@ -1,12 +1,12 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 01/04/2025
-
 **Empresa:** Abstergo Industries
-
 **Responsável:** Thays Lira
 
-Introdução Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Thays Lira. O objetivo do projeto foi elencar três serviços AWS, com a finalidade de realizar diminuição de custos imediatos e aumentar a eficiência operacional.
+## Introdução
+
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Thays Lira. O objetivo do projeto foi elencar três serviços AWS, com a finalidade de realizar diminuição de custos imediatos e aumentar a eficiência operacional.
 
 ## Descrição do Projeto
 

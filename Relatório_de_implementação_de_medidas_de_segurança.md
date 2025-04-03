@@ -6,7 +6,7 @@
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por João da Silva. O objetivo do projeto foi elencar três medidas de segurança em conjunto com os serviços da AWS, com a finalidade de aumentar significativamente a proteção dos sistemas e dados da empresa.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Thays Lira. O objetivo do projeto foi elencar três medidas de segurança em conjunto com os serviços da AWS, com a finalidade de aumentar significativamente a proteção dos sistemas e dados da empresa.
 
 ## Descrição do Projeto
 
